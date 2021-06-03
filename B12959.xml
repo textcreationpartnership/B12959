@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring His Maiesties pleasure, concerning the forfeitures of recusants in the northerne parts of this kingdome.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12959</idno><idno type="EEBO-CITATION">99892413</idno>
+  <idno type="VID">185684</idno>
+  <idno type="EEBO-PROQUEST">2240928898</idno>
+  
+            <idno type="STC">STC 8862</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.11[94]</idno>
+            <idno type="PROQUEST">ocm99892413</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892413e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185684)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:2[95])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring His Maiesties pleasure, concerning the forfeitures of recusants in the northerne parts of this kingdome.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVII. [1627]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Whitehall, the seuen and twentieth day of Iune, in the third yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 12; Steele notation: gran- Westmerland, 2) which those.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185684:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation declaring His Maiesties plea<g ref="char:EOLhyphen"/>sure, concerning the forfeitures of Recusants in the Northerne parts of this Kingdome.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Wee, by the aduice of Our Priuie Counsell, haue gran<g ref="char:EOLhyphen"/>ted</hi> Our Commission vnto Our right trustie and right welbeloued Cousin, <hi>Emmanuell</hi> Earle of <hi>Sunderland,</hi> Lord President of Our Coun<g ref="char:EOLhyphen"/>sell established in the North parts, and to Our right trusty and welbe. loued Counseller, Sir <hi>Iohn Sauill,</hi> Knight, and diuers others, Gentle<g ref="char:EOLhyphen"/>men, and persons of principall note and qualitie, of, and in Our Counties of <hi>Yorke, Stafford, Darby, Notingham, Lincolne, Chester, Lancaster, Westmerland, Cumberland, Northumberland,</hi> and Bishopricke of <hi>Durham,</hi> and Counties of the Cities of <hi>Yorke, Lincolne,</hi> and <hi>Chester,</hi> and Townes, and Counties of <hi>New<g ref="char:EOLhyphen"/>castle-vpon-Tine,</hi> and <hi>Kingston vpon-Hull,</hi> and haue thereby giuen vnto Our sayd Commissioners, full power and authority in Our name, and to Our vse, to treate and compound with all persons conuicted, or hereafter to be conuicted for Recusancie, either dwelling or residing in those Coun<g ref="char:EOLhyphen"/>ties, Cities or Townes, or any of them, or hauing any Mannours, Lands, Tenements, Lea<g ref="char:EOLhyphen"/>ses, Goods or Chattels within those Counties, Cities or Townes, or any of them, for Leases of their Lands, or Farmes, or other composition for the forfeitures of such Recusants, incurred or forfeited since the tenth yeere of the Reigne of Our late deare Father, or which shall be here<g ref="char:EOLhyphen"/>after incurred or forfeited, according to such instructions and directions for Our Seruice, as in, and by the sayd Commission sealed with Our great Seale of <hi>England,</hi> and Instructions signed with Our Royall hand, doth at large appeare.</p>
+            <p>The benefit of all which Forfeitures and summes of Money, which doe, or shall by that meanes accrue or growe vnto Vs out of those Counties, Cities and Townes, Wee haue specially appointed to bee imployed, for, or towards the Prouiding, Arming, and Maintaining of sixe able Shippes of Warre, for the defence and guard of those Northerne parts, and of the
+<pb facs="tcp:185684:2"/>Shippes, Vessels, Goods and Merchandize, passing and repassing by those Coastes, which are more dayly infested and endangered by Enemies, and Pirats, like as Wee haue also appoin<g ref="char:EOLhyphen"/>ted, and destinated those summes of money, which shall accrue vnto Vs by the Forfeitures of Recusants, in all other parts of this Our Kingdome, for, or towards the maintenance of Our Nauie, and other publike Seruices, and no wayes to bee imployed to Our priuate or particu<g ref="char:EOLhyphen"/>lar vse.</p>
+            <p>Now, to the end that Our pleasure herein may be the better knowen, and also Our Subiects whom it may any way concerne, may the better take notice thereof, and apply themselues accor<g ref="char:EOLhyphen"/>dingly, Wee, by the like Aduice of Our Priuie Counsell, haue thought fit to publish and declare the same by this Our Royall Proclamation, and doe hereby publish and declare the same, willing and requiring all those, whom it shall, or may concerne, to repaire to Our sayd Commissioners, who, or a competent number of whom, according to the tenour of Our sayd Commission, shall, and will be remaining at Our Citie of <hi>Yorke,</hi> to giue dispatch to all Suitors, who shall desire the same.</p>
+            <p>And, Wee doe hereby further declare Our pleasure and resolution to be, that if any Recusant, whom it may concerne, shal refuse or neglect to accept of Our Grace thus offered, &amp; to be extended vnto them by Our sayd Commissioners, for those Counties, Cities, and Townes by the space of two moneths, from the date of this Our Proclamation; Or, by the Lords, and other Our Com<g ref="char:EOLhyphen"/>missioners for the other parts of this Our Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> who are also appointed to attend the execution and dispatch thereof at Our Palace of <hi>White-Hall,</hi> that they must know that we are fully resolued against all such, to take the vttermost benefit of those Forfeitures which haue accrued, or shall accrue vnto Vs, without any fauour towards those who shall so neglect it.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Whitchall, </hi>
+                  <date>
+                     <hi>the seuen and twentieth day of Iune, in the third yeere of Our Reigne of Great Britaine, France, and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. M.DC.XXVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
